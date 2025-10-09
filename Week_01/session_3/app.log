@@ -1,0 +1,5 @@
+INFO:root:Program started
+INFO:root:Login successful for user: alice
+ERROR:root:Login failed for user: bob
+INFO:root:Login successful for user: charlie
+ERROR:root:division by zero

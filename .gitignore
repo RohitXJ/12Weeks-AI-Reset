@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 
 /POST_LINKEDIN
+
+!Week_01/session_3/app.log
