@@ -183,3 +183,5 @@ cython_debug/
 /POST_LINKEDIN
 
 !Week_01/session_3/app.log
+*.db
+/Week_05/db
