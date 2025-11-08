@@ -1,0 +1,6 @@
+employee_id,full_name,job_title,hire_date,salary_str
+101,Sarah Jenkins,Data Scientist,2021-05-10,"$120,000"
+102,Mike T.,sr. analyst,2020-03-15,"$85,000"
+103,Leo Kim,data engineer,2022-01-20,130000
+104,Anjali Gupta,Data Scientist,2021-05-10,"$125,000"
+105,Mark O'Brien,Product Manager,2019-11-30,"$110,000"
