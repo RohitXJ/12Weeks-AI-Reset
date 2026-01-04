@@ -185,4 +185,4 @@ cython_debug/
 !Week_01/session_3/app.log
 *.db
 /Week_05/db
-/Side_Quest
+Side_Quest
