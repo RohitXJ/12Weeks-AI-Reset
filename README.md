@@ -3,12 +3,15 @@
 Welcome to my personal AI Reset journey — a 12-week structured challenge to rebuild my AI Engineering foundation and reach professional-level mastery.
 
 ## 🧩 Weekly Topics
-| Week | Focus | Progress |
-|------|--------|-----------|
-| 1 | Python Core + DSA | ✅ |
-| 2 | SQL + Data Handling | 🔄 |
-| 3 | ML Pipelines + EDA | ⏳ |
-| ... | ... | ... |
+| Week | Focus                                                      | Progress  |
+|------|------------------------------------------------------------|-----------|
+| 1    | Python Fundamentals & Project Structure                    | ✅        |
+| 2    | Core Data Structures (Linked Lists, Stacks, Queues, Trees) | ✅        |
+| 3    | Advanced Data Structures, NumPy & Matplotlib               | ✅        |
+| 4    | Data Analysis with Pandas & Intro to Supervised ML         | ✅        |
+| 5    | Advanced ML, Tuning & Deep Dive into SQL                   | ✅        |
+| 6    | End-to-End ML Projects & Deep Learning with PyTorch        | ✅        |
+| ...  | ...                                                        | ⏳         |
 
 ## 🧠 Goals
 - Strengthen AI/ML fundamentals
